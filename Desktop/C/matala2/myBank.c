@@ -13,6 +13,7 @@ double decimalPlace(double x){
     x /= 100.0;
     return x;
 }
+
 //Function that opening an account, saving the initial deposit amount
 //and prints the new account number.
 void open(double a){
